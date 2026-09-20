@@ -141,7 +141,7 @@ Technical and product visualization projects created with <b>Blender</b>, includ
 
 <hr>
 
-<h2>📚 Learning & Development</h2>
+<h2> Learning & Development</h2>
 
 <ul>
   <li>Completed <b>CS50x: Introduction to Computer Science</b></li>
