@@ -153,7 +153,7 @@ Technical and product visualization projects created with <b>Blender</b>, includ
 
 <hr>
 
-<h2>🚀 Long-Term Interests</h2>
+<h2> Long-Term Interests</h2>
 
 <ul>
   <li>Computer Engineering and Software Engineering</li>
