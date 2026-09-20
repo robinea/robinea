@@ -1,30 +1,37 @@
 <h1 align="center">Hi, I'm Robera Negusie 👋</h1>
 
-<h3 align="center">Securing the Future of IoT Systems</h3>
+<h3 align="center">Building with Software, Systems, and Engineering</h3>
 
 <p align="center">
-passionate about cybersecurity, IoT systems, and computer science.<br>
-Focused on building and securing interconnected systems in real-world environments.
+Interested in cybersecurity, networking, robotics, software, and 3D visualization.<br>
+I enjoy building practical projects that connect software with real-world systems.
 </p>
 
 <hr>
 
 <h2>About Me</h2>
+
 <ul>
-  <li>Exploring <b>Computer Science concepts </b></li>
-  <li>Interested in <b>Cybersecurity, IoT, and Computer science</b></li>
-  <li>Exploring how software interacts with <b>hardware systems and networks</b></li>
-  <li>Passionate about building and securing distributed systems</li>
+  <li>Exploring <b>Computer Science and Software Engineering</b></li>
+  <li>Building practical projects with <b>Python</b> and other programming languages</li>
+  <li>Interested in <b>Cybersecurity, Networking, Robotics, and Engineering</b></li>
+  <li>Learning through hands-on cybersecurity labs and <b>bug bounty research</b></li>
+  <li>Building projects that connect <b>software, hardware, and real-world systems</b></li>
+  <li>Exploring <b>3D visualization and technical modeling</b> with Blender</li>
 </ul>
 
 <hr>
 
 <h2>Interests</h2>
+
 <ul>
-  <li>Programming and system design</li>
-  <li>Cybersecurity (Web vulnerabilities, virtual machines, hands-on labs)</li>
-  <li>IoT and embedded systems</li>
-  <li>Networking and distributed architectures</li>
+  <li>Python programming and automation</li>
+  <li>Cybersecurity and vulnerability research</li>
+  <li>Bug bounty and web security</li>
+  <li>Computer networking and distributed systems</li>
+  <li>Robotics and embedded systems</li>
+  <li>Engineering and technical visualization</li>
+  <li>3D modeling and product visualization</li>
   <li>Blockchain applications in real-world systems</li>
 </ul>
 
@@ -43,6 +50,7 @@ Focused on building and securing interconnected systems in real-world environmen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="25"/> Solidity &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="25"/> PowerShell
 </p>
+
 <h3>⚙️ Tools & Environments</h3>
 
 <p>
@@ -57,58 +65,107 @@ Focused on building and securing interconnected systems in real-world environmen
 🧪 Burp Suite &nbsp;&nbsp;
 🖥️ Virtual Machines (VMware / VirtualBox)
 </p>
+
+<h3>🎨 3D & Visualization</h3>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="25"/> Blender &nbsp;&nbsp;
+</p>
+
+<p>
+3D modeling &nbsp;&nbsp;
+Technical visualization &nbsp;&nbsp;
+Product visualization &nbsp;&nbsp;
+Engineering visualization
+</p>
+
+<hr>
+
+<h2>🐍 Python</h2>
+
+<p>
+I use Python for <b>automation, scripting, data processing, cybersecurity projects, and practical problem solving</b>.
+</p>
+
 <hr>
 
 <h2>📂 Projects</h2>
 
 <h3>Smart Distributed IoT System</h3>
+
 <p>
 A system connecting multiple IoT environments using a <b>blockchain-based architecture</b> for secure, tamper-resistant data sharing.
 </p>
 
 <h3>Offline Learning Platform</h3>
+
 <p>
 A lightweight application enabling <b>offline access to educational content</b> in low-connectivity environments.
 </p>
 
-<h3>➕ More Projects Coming Soon...</h3>
-<!-- Add new projects below -->
+<h3>Cybersecurity Projects</h3>
+
+<p>
+Hands-on work involving <b>Linux, networking, virtual machines, vulnerability assessment, security monitoring, and web security</b>.
+</p>
+
+<h3>Robotics & Engineering Projects</h3>
+
+<p>
+Exploring practical engineering projects involving <b>robotics, mechanical systems, and software-controlled hardware</b>.
+</p>
+
+<h3>3D Visualization Projects</h3>
+
+<p>
+Technical and product visualization projects created with <b>Blender</b>, including product models and engineering-focused visualizations.
+</p>
+
+<p>
+<b>More projects will be added as they are completed.</b>
+</p>
 
 <hr>
 
+<h2>🎯 Current Focus</h2>
 
-<h2>Goals</h2>
 <ul>
-  <li>Develop strong expertise in computer science </b></li>
-  <li>Work across IoT, Robotics, and Aerospace systems</li>
-  <li>Apply software engineering and cybersecurity to real-world systems</li>
+  <li>Building practical cybersecurity projects</li>
+  <li>Developing Python automation and scripting skills</li>
+  <li>Learning vulnerability research and bug bounty methodologies</li>
+  <li>Deepening computer networking and Linux knowledge</li>
+  <li>Building robotics and engineering projects</li>
+  <li>Developing technical 3D visualization skills with Blender</li>
+  <li>Learning through hands-on projects and experimentation</li>
 </ul>
 
 <hr>
 
-<h2>Achievements</h2>
+<h2>📚 Learning & Development</h2>
+
 <ul>
-  <li>Cisco Networking courses completed</li>
-  <li>Cisco Cybersecurity courses completed</li>
-  <li>Active TryHackMe learner</li>
+  <li>Completed <b>CS50x: Introduction to Computer Science</b></li>
+  <li>Developing practical cybersecurity skills through hands-on labs</li>
+  <li>Building networking experience through Cisco coursework and practical simulations</li>
+  <li>Developing vulnerability research skills through authorized bug bounty programs and security labs</li>
+  <li>Continuously developing Python, Linux, and systems skills through projects</li>
 </ul>
 
 <hr>
 
-<h2>Current Focus</h2>
+<h2>🚀 Long-Term Interests</h2>
+
 <ul>
-  <li>Improving practical cybersecurity skills</li>
-  <li>Deepening system-level programming knowledge</li>
-  <li>Exploring secure IoT architectures</li>
+  <li>Computer Engineering and Software Engineering</li>
+  <li>Cybersecurity and secure systems</li>
+  <li>Robotics and autonomous systems</li>
+  <li>Aerospace and engineering systems</li>
+  <li>Software-hardware integration</li>
 </ul>
 
 <hr>
 
-<h2>Philosophy</h2>
-<p><i>
-Technology is powerful—but only when it is <b>secure and well understood</b>.
-</i></p>
+<p align="center">
+<i>Building, learning, and documenting along the way.</i>
+</p>
 
-<hr>
-
-<p align="center"><i>More updates coming soon...</i></p>
